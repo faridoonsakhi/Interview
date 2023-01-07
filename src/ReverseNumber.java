@@ -47,6 +47,9 @@ public class ReverseNumber {
 
         System.out.println("reverse number is: = " + rev);
 
+            System.out.println("reverse number is: = " + rev);
+            System.out.println("reverse number is: = " + rev);
+            System.out.println("reverse number is: = " + rev);
 
 
     }
